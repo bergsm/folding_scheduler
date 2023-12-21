@@ -1,0 +1,1 @@
+00 12 * * * /usr/bin/bash /home/shawn/prog/folding_scheduler/folding_scheduler.sh
